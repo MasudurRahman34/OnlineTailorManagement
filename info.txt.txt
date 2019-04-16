@@ -1,0 +1,5 @@
+impotant notice
+
+database name: tailorshop
+import database from : database folder
+admin username: admin, password: 123
